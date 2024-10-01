@@ -16,3 +16,6 @@
 [submodule "packages/foundry/lib/teleporter"]
 	path = packages/foundry/lib/teleporter
 	url = https://github.com/ava-labs/teleporter
+[submodule "packages/foundry/lib/avalanche-interchain-token-transfer"]
+	path = packages/foundry/lib/avalanche-interchain-token-transfer
+	url = https://github.com/ava-labs/avalanche-interchain-token-transfer

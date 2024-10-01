@@ -13,3 +13,6 @@
 [submodule "lib/teleporter"]
 	path = lib/teleporter
 	url = https://github.com/ava-labs/teleporter
+[submodule "packages/foundry/lib/teleporter"]
+	path = packages/foundry/lib/teleporter
+	url = https://github.com/ava-labs/teleporter
